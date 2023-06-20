@@ -3,11 +3,6 @@ Benefits of AI for Optimizing Workflow
 
 In this chapter, we'll explore the benefits of using artificial intelligence (AI) for small business process management. AI technologies can help small businesses optimize workflow, reduce errors, improve productivity, and enhance customer experience.
 
-What is AI?
------------
-
-AI is a branch of computer science that involves developing algorithms and systems that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. AI technologies include machine learning, natural language processing, robotics, and computer vision.
-
 Benefits of AI for Small Business Process Management
 ----------------------------------------------------
 
