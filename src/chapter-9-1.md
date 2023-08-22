@@ -1,5 +1,4 @@
-Ethical Considerations for AI Implementation in Small Business Process Management
-============================================================================================================================================================
+
 
 As small businesses increasingly adopt AI technology for process management, ethical considerations become increasingly important. In this chapter, we will explore the ethical considerations that small businesses must take into account when implementing AI technology in process management.
 

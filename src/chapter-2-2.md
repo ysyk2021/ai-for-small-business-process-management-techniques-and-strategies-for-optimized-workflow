@@ -1,5 +1,4 @@
-Types of AI used for Small Business Process Management
-=========================================================================================================================
+
 
 Artificial intelligence (AI) is a rapidly growing field that has the potential to revolutionize small business process management. In this chapter, we will explore the types of AI technology that are commonly used in small business process management.
 

@@ -1,5 +1,4 @@
-Assessing Your Small Business's Process Management Needs and Goals
-========================================================================================================================================================
+
 
 Before implementing AI technology for small business process management, it is important to assess your small business's process management needs and goals. In this chapter, we will discuss strategies for assessing your small business's process management needs and goals to ensure successful implementation of AI in process management.
 

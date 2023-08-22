@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Process Management
-============================================================================================================================================
+
 
 In this chapter, we'll explore the various AI tools and technologies that can be used for small business process management. With so many options available, it's important to choose the right tools and technologies that will best suit your business needs.
 

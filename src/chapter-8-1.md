@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Small Business Process Management
-=========================================================================================================================================
+
 
 In this chapter, we will explore the metrics and methods used to measure the impact of AI on small business process management. By measuring the performance of an AI-powered process management system, small businesses can identify areas for improvement and optimize their workflows.
 
