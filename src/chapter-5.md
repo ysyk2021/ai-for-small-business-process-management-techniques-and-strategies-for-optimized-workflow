@@ -1,5 +1,4 @@
 
-
 Data is the lifeblood of process management. Without data, it is impossible to measure the performance of a process or identify areas for improvement. In this chapter, we will discuss the importance of data collection and analysis for process improvement, best practices for data collection and preparation, and using AI algorithms for data analysis and pattern recognition in process management.
 
 Importance of data collection and analysis for process improvement

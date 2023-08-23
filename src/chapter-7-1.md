@@ -1,5 +1,4 @@
 
-
 Process automation is essential for small businesses looking to optimize their workflow and improve efficiency. AI can be used to automate various aspects of process management, including data entry, document processing, and inventory management. In this chapter, we will provide an overview of the various AI applications for process automation.
 
 Overview of AI applications for process automation

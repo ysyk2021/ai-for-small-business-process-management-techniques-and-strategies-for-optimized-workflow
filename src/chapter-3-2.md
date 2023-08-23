@@ -1,5 +1,4 @@
 
-
 Before implementing AI technology for small business process management, it is important to evaluate the availability and quality of the data that will be used to train the AI algorithms. In this chapter, we will discuss strategies for evaluating data availability and quality to ensure successful implementation of AI in process management.
 
 Assessing Data Availability

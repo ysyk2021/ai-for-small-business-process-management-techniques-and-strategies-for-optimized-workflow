@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly adopt AI technology for process management, ethical considerations and governance of AI use become increasingly important. In this chapter, we will explore the ethical considerations, developing governance frameworks, and legal and regulatory considerations for AI implementation in small business process management.
 
 Ethical Considerations for AI Implementation in Small Business Process Management

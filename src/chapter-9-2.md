@@ -1,5 +1,4 @@
 
-
 As AI technology continues to advance, ethical considerations and governance of AI use are becoming increasingly important. Small businesses must ensure that their use of AI technology is responsible, ethical, and transparent. In this chapter, we will explore the importance of AI ethics and governance in small business process management and discuss strategies for developing governance frameworks to ensure responsible AI use.
 
 The Importance of AI Ethics and Governance

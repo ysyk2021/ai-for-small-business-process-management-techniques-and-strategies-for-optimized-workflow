@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is a rapidly growing field that has the potential to revolutionize small business process management. In this chapter, we will define AI and explore its applications in small business process management.
 
 Definition of AI

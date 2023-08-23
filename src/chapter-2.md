@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize small business process management and increase efficiency. In this chapter, we will explore the definition of AI, types of AI used for small business process management, and the benefits of AI for optimizing workflow.
 
 Definition of AI

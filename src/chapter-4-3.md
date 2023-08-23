@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the process of choosing the right AI tools and technologies for small business process management. We will also provide case studies of successful AI implementations in process management to illustrate different approaches and outcomes.
 
 Choosing the Right AI Tools and Technologies for Process Management
