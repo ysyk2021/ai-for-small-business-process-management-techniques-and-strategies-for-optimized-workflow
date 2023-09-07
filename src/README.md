@@ -8,3 +8,7 @@ By adopting AI-driven strategies for process management, small businesses can ga
 So, let's dive into the world of AI for small business process management and discover how these techniques and strategies can help you optimize your workflow and drive growth and profitability.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
